@@ -1,8 +1,9 @@
-# HASC Project Full Stack
+# HASC Full Stack Project
 
-This repository contains links to the frontend and backend repositories for the HASC Project.
+This repository contains links to both the frontend and backend repositories of the Home Appliance Service Centre portal project.
 
-## Repositories
+### 🔗 Frontend Repository
+[https://github.com/Thirishavisranth/HASC_Project](https://github.com/Thirishavisranth/HASC_Project)
 
-- [Frontend Repository](https://github.com/Thirishavisranth/HASC_Project_Frontend)
-- [Backend Repository](https://github.com/Thirishavisranth/HASC_Project_Backend)
+### 🔗 Backend Repository
+[https://github.com/Thirishavisranth/HASCproject](https://github.com/Thirishavisranth/HASCproject)
